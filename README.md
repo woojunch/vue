@@ -1,4 +1,4 @@
-# vue-todo
+# event_project
 
 ## Project setup
 ```
