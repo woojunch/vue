@@ -19,5 +19,5 @@ module.exports = {
         }
     },
     outputDir: 'docs',
-    publicPath: '/event_vue1'
+    publicPath: '/event_vue'
 }
