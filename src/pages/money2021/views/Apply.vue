@@ -158,7 +158,7 @@ export default {
             var frm = document.getElementById('join_info');
             const formData = new FormData(frm);            
             formData.append('buyr_tel2', frm.tel1.value+'-'+frm.tel2.value+'-'+frm.tel3.value);
-            this.axios.post('/seminar/money2021/test', formData, {
+            this.axios.post('https://event.hankyung.com/seminar/money2021/test', formData, {
                 headers: {
                     'Content-Type': 'application/json'
                 },

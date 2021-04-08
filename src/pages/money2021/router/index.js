@@ -35,7 +35,7 @@ const routes = [
     component: Replay
   },
   {
-    path: '/money2021/*',
+    path: '/money2021',
     name: 'Introduce',
     component: Introduce
   }
