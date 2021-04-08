@@ -35,6 +35,7 @@
                         <em class="tit">주최</em>
                         <div class="coop">
                             <img :src="require('@/assets/money2021/images/w/logo-hk.png')" alt="한국경제신문" class="logo-host">
+                            <img src="/money2021/images/w/logo-hk.png" alt="한국경제신문" class="logo-host">
                         </div>
                     </li>
                     <li>
