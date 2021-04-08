@@ -19,5 +19,5 @@ module.exports = {
         }
     },
     outputDir: 'docs',
-    publicPath: '/vue'
+    publicPath: '/vue/money2021'
 }
