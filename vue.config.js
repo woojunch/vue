@@ -18,6 +18,6 @@ module.exports = {
             }
         }
     },
-    outputDir: 'docs/money2021',
+    outputDir: 'docs',
     publicPath: '/vue'
 }
