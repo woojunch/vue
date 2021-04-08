@@ -6,7 +6,7 @@
             <div class="speaker_list">
                 <div class="speaker_item">
                     <div class="speaker_img">
-                        <img src="/seminar/money2021/images/w/speaker_01.jpg" alt="김현석">
+                        <img :src="require('@/assets/money2021/images/w/speaker_01.jpg')" alt="김현석">
                     </div>
                     <div class="speaker_career">
                         <strong class="name">김현석</strong>

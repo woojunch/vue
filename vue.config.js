@@ -10,14 +10,14 @@ module.exports = {
             filename: 'money2021.html'
         }
     },
-    devServer: {
-        proxy: {
-            '/seminar': {
-                target: 'https://event.hankyung.com/',
-                changeOrigin: true
-            }
-        }
-    },
+    // devServer: {
+    //     proxy: {
+    //         '/seminar': {
+    //             target: 'https://event.hankyung.com/',
+    //             changeOrigin: true
+    //         }
+    //     }
+    // },
     outputDir: 'docs',
     publicPath: '/vue'
 }

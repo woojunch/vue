@@ -34,13 +34,13 @@
                     <li>
                         <em class="tit">주최</em>
                         <div class="coop">
-                            <img src="/seminar/money2021/images/w/logo-hk.png" alt="한국경제신문" class="logo-host">
+                            <img :src="require('@/assets/money2021/images/w/logo-hk.png')" alt="한국경제신문" class="logo-host">
                         </div>
                     </li>
                     <li>
                         <em class="tit">후원</em>
                         <div class="coop">
-                            <img src="/seminar/money2021/images/w/logo-sponsor.jpg?v=20210129" alt="신한금융그룹, KB금융그룹, 하나금융그룹, NH농협금융, 신한은행, 우리은행, KEB하나은행, NH농협은행, IBK기업은행, DGB대구은행, BNK부산은행, BNK경남은행, 광주은행, 삼성생명, 교보생명, 한화생명, 신한생명, 미래에셋생명, NH농협생명, NH농협손해보험, 신한카드, 우리카드, 신한금융투자" class="logo-sponsor">
+                            <img :src="require('@/assets/money2021/images/w/logo-sponsor.jpg')" alt="신한금융그룹, KB금융그룹, 하나금융그룹, NH농협금융, 신한은행, 우리은행, KEB하나은행, NH농협은행, IBK기업은행, DGB대구은행, BNK부산은행, BNK경남은행, 광주은행, 삼성생명, 교보생명, 한화생명, 신한생명, 미래에셋생명, NH농협생명, NH농협손해보험, 신한카드, 우리카드, 신한금융투자" class="logo-sponsor">
                         </div>
                     </li>
                     <li class="question">
